@@ -45,6 +45,14 @@ h4 {
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
+
+@media only screen and (max-width: 600px) {
+  .fi-header {
+    font-size: 1.4rem;
+  }
+}
+
+
 a {
   color: {{ site.link-col | default: "#008AFF" }};
 }
