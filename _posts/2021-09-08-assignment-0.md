@@ -2,7 +2,7 @@
 layout: post
 title: Ennakkotehtävä
 subtitle: Aikaisemmat kokemukset ja henkilökohtaiset oppimistavoitteeni
-tags: [assignment0]
+tags: [assignment]
 comments: true
 ---
 
