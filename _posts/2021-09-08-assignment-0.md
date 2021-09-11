@@ -2,23 +2,16 @@
 layout: post
 title: Ennakkotehtävä
 subtitle: Aikaisemmat kokemukset ja henkilökohtaiset oppimistavoitteeni
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+tags: [assignment0]
 comments: true
 ---
 
-**Tausta**
-- valmistuin maisema-arkkitehtuuri kandidaatiksi irlannissa v. 2020
-- työskentelin koulun ohella kaksi vuotta ja valmistumisen jälkeen vuoden paikallisessa toimistossa
-- opiskeluun olisi mielestäni tullut olla enemmän materiaaleihin ja rakennusprosessiin liittyvää opetusta
-- opin työskentelyn ohessa paljon 
+Minulla on hieman kokemusta kurssilla käytävistä aiheista joihin kuuluu mm. projektinhallinta, rakennushanke ja sen vaiheet, rakennuttaminen, suunnittelu ja suunnitteluttaminen, konsulttitoiminta, urakointikäytännöt, valvonta sekä maisemarakentaminen julkisissa ja yksityisissä organisaatioissa sekä hankkeissa. Aikaisemmissa opinnoissani rakentamiseen ja sitä sivuavaan tarpeelliseen tietoon keskityttiin harmillisen vähän, ja suuren osan tästä aiheesta oppimani olen saanut työnteon kautta. Suoritin maisema-arkkitehtuurin kandidaatin tutkintoni Irlannissa, joten odotan mielenkiinnolla oppiakseni eroavatko Suomen käytännöt Irlannista kuinka paljon, ja mikä mahdollisten erojen syynä voisi olla. Minulle ei vielä ole suomenkielinen maisema-arkkitehdin sanasto kovin tuttu, joten olen pahoillani jos käytän vääriä sanavalintoja joissain kohdissa. 
 
-**Kurssin teemat ja aihepiirit**
-- maisema-arkkitehti asiantuntijana, osattava tietää milloin puuttua keskusteluun muiden asiantuntijoiden kanssa
-- materiaalivalintojen tärkeys
-- säädökset, ohjeet, yleiset käytännöt
+Olin kolmen viime vuoden ajan ollut töissä paikallisessa irlantilaisessa maisema-arkkitehtitoimistossa, ensin kahden vuoden ajan osa-aikaisesti harjoittelijana, ja valmistumiseni jälkeen vuoden ajan täysipäiväisesti vastavalmistuneena maisema-arkkitehtina (Graduate Landscape Architect). Suurimmaksi osaksi avustin kokeneempia maisema-arkkitehteja heidän projekteissaan, mutta sain myös hoidettavakseni muutaman pienemmän projektin yksin, esimieheni ohjauksen avulla. Suurin osa projekteista joissa olin mukana ovat olleet elinkaarensa alussa, joko konsepti (sketch) tai rakennuslupavaiheessa (planning). Kilpailutus- (tender) tai rakennusvaiheesta (construction) minulla ei ole vielä yhtä paljon kokemusta, minkä vuoksi ajattelin tämän kurssin olevan hyödyllinen itselleni oppiakseni aiheesta lisää. Luettuani kurssin aihepiireistä ja teemoista mietin työkokemustani ja millaista kokemusta minulla on niistä. Kielen vuoksi minun on tässä vaiheessa vaikea eritellä aiheita yksi yhteen aikaisemman kokemukseni kanssa, mutta kurssin edetessä se varmasti selkeytyy ja tavoitteenani onkin kurssin aikana jatkaa vanhojen projektieni miettimistä ja soveltaa oppimiani käytäntöjä niihin. 
 
-**Henkilökohtaiset oppimistavoitteeni**
-- Oppia lisää rakennusprosesseista Suomessa, ja kuinka projektit etenevät alun konseptivaiheesta rakennusprosessiin ja lopulta valmistumiseen
-- Miettiä työkokemukseni aikaisia projekteja ja soveltaa oppimaani tietoa niihin, olisinko toiminut toisella tavalla uuden  tiedon valossa?
+Yksi viimeisimmistä projekteista joissa olin mukana, ja josta omasta mielestäni olen saanut mahdollisesti eniten pohjatietoa kurssin aiheista, oli kilpailutusvaiheessa oleva projektikokonaisuus, johon kuului kuusi kolmannen asteen opistoa ympäri Irlantia, joihin suunniteltiin uusia rakennuksia. Projektin asiakas oli koonnut tiimin tarvittavia asiantuntijoita arkkitehdeistä insinööreihin ja palkannut toimistomme hoitamaan maisemapuolen. Jaoimme sijainnit kahden muun maisema-arkkitehdin kanssa, ja työstimme kukin kahta opistoa. Toinen maisema-arkkitehtitoimisto oli tehnyt projektin maisema-suunnitelmat rakennuslupahakemukseen, joten työstimme omaa pakettiamme heidän piirustustensa pohjalta. Tavoitteenamme oli koota paketti johon kuului paranneltu ja yksityiskohtaisempi suunnitelma, joka tasapainotteli korkealaatuisuuden ja kustannustehokkaan välillä, jotta asiakkaamme voittaisi rakennussopimuksen itselleen. Lähettämäämme tender-pakettiin kuului piirustuksia kaavoista läpileikkauksiin ja yksityiskohtaisiin rakennesuunnitelmiin, jotta asiakas pystyisi mahdollisimman tarkasti arvioimaan rakennuskustannukset, hoitosuunnitelmat sekä määrälaskut (bill of quantities). Projektin aikana opin todella paljon maisemarakentamisesta sekä kuinka paljon ja minkälaista tietoa se vaatii maisema-arkkitehdilta. Sain myös käsitystä jonkun verran kuinka laaja aihe on ja kuinka paljon minulla on vielä opittavaa. 
+
+Maisema-arkkitehdin konsulttitoiminnasta minulla ei ole vielä juurikaan kokemusta tai aikaisempaa tietoa. Opintojeni alkupuolella olin kesän töissä Seinäjoen kaupungin kaavoitustoimistolla ja siellä sain tutustua erilaisiin dokumentteihin joita kaupunki oli tilannut ulkopuolisilta maisema-arkkitehdeilta, joten minulla on jonkinlaista kuvaa sen osalta minkälaisia töitä on mahdollista tilata maisema-arkkitehdeilta suunnitelutyön lisäksi, mutta haluan ehdottomasti oppia aiheesta lisää. Erilaiset säädökset ja yleiset käytännöt ovat myös todella tärkeitä asioita joihin haluan paneutua. Irlannissa työskennellessäni minulle tuli tutuksi heidän säädöksensä, etenkin säädökset esteettömyydestä. Olen varma että Suomessa säädökset ovat samankaltaisia, mutta varmasti erojakin löytyy. 
+
+Kuten mainitsin aikaisemmin, tavoitteenani on sisäistää uusi tieto miettimällä taaksepäin aikaisempaan opiskeluuni sekä työkokemukseeni, ja soveltaa aihetta siihen. Kuinka olisin hyötynyt tästä uudesta tiedosta silloin, ja olisinko voinut soveltaa sitä kyseisessä projektissa? Haluan panostaa aiheisiin joista minulla ei ole vielä kokemusta, sekä tutustua ajankohtaisiin rakennusprojekteihin. Aion suorittaa kurssin 6 opintopisteen arvoisena. .
